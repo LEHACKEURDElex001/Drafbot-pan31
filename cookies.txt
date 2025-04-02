@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.draftbot.fr	TRUE	/	FALSE	1999999999	h3	Fe26.2**f839afea81740cba958011b0bcd33441e85ecbeb5d01d120eb7a3a2ffe3a1db2*4opEz26340EApwSGEfoUog*Y4DToFM0QoeFK6OUNE1d7CC9r3T7JKKsL4u9rP-nmZhfdFgKRODHL1AFhNCxJ_dW6Fn4RSV_4apoXDox0Nb_Xb6roJRKmWBOXyx2v2kvq1V_mMpDkMfEVme4VQqp6ZmA**a39225c187f83eace7674989554b18bc44313ef4473dd1e8a0dc9cbe36e5270f*hX2j_o_lm96rYZz1iaXaKUGwWTCwba6aPBWA_QqsYZo
+www.draftbot.fr	TRUE	/	FALSE	1999999999	i18n_redirected	fr
+www.draftbot.fr	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.draftbot.fr	TRUE	/	FALSE	1999999999	redirect	%2Fdashboard%2Ffirst%2Fcommunity
+www.draftbot.fr	TRUE	/	FALSE	1999999999	state	a709f296-c5b6-4357-8ff3-4178f8f996ad
+
